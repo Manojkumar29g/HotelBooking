@@ -1,6 +1,0 @@
-com/app/exe/LoginPage_exe.class
-com/app/runner/Runner.class
-com/app/locator/Loginpage_Locator.class
-com/app/stepdefinition/Hook.class
-com/app/base/Base.class
-com/app/stepdefinition/Login_steps.class

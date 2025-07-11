@@ -13,5 +13,6 @@ public class LoginPage_exe {
 	public static void login() {
 		Base.click_value(Loginpage_Locator.getLogin());
 	}
+	
 
 }

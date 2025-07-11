@@ -17,5 +17,6 @@ public static WebDriver driver = null;
 	public static void click_value(WebElement element) {
 		element.click();
 	}
+	
 
 }
